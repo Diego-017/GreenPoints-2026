@@ -1,4 +1,4 @@
-# GreenPoints — Laravel Computo 3 C3
+# Proyecto GreenPoints  Computo 3 C3
 
 UNIVERSIDAD GERARDO BARRIOS
 
