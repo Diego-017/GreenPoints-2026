@@ -1,8 +1,28 @@
-# 🌱 GreenPoints — Laravel (Segundo Avance)
+# GreenPoints — Laravel Computo 3 C3
 
-Proyecto académico UGB — Programación Computacional IV  
-Laboratorio 1, Tercer Cómputo, Segundo Avance
+UNIVERSIDAD GERARDO BARRIOS
 
+Materia: Programación Computacional IV
+
+Docente: Willian Alexis Montes Girón
+
+Grupo: B2
+
+Integrantes
+
+Diego Martín López Moreno (SMSS097824).  
+
+Walter Alexander Ramírez Benítez (SMSS082124).  
+
+Juan Ramón Espinal Coto (SMSS102323).  
+
+Franklin Aldahir Portillo Flores (SMSS011624).  
+
+Omar Salvador García Vasquez (SMSS093524).  
+
+Flor Marina Torres Jandres (SMSS098424).  
+
+Fecha: 17 mayo  2026.
 ---
 
 ## Instalación paso a paso
