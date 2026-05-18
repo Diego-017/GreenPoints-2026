@@ -23,8 +23,7 @@ Flor Marina Torres Jandres (SMSS098424). 
 Grupo: B2
 
 Fecha: 17 mayo  2026.
----
----
+
 ## Estructura implementada
 
 ### Modelos (app/Models/)
