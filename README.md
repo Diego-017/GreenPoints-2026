@@ -24,9 +24,6 @@ Flor Marina Torres Jandres (SMSS098424). 
 
 Fecha: 17 mayo  2026.
 ---
-
-## Instalación paso a paso
-
 ---
 ## Estructura implementada
 
