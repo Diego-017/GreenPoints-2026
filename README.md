@@ -27,43 +27,7 @@ Fecha: 17 mayo  2026.
 
 ## Instalación paso a paso
 
-```bash
-# 1. Crear proyecto Laravel base
-composer create-project laravel/laravel greenpoints
-
-# 2. Copiar las carpetas del ZIP dentro del proyecto:
-#    app/Http/Controllers/*  →  greenpoints/app/Http/Controllers/
-#    app/Models/*            →  greenpoints/app/Models/
-#    database/migrations/*   →  greenpoints/database/migrations/
-#    database/seeders/*      →  greenpoints/database/seeders/
-#    resources/views/*       →  greenpoints/resources/views/
-#    routes/web.php          →  greenpoints/routes/web.php  (reemplazar)
-
-# 3. Configurar .env
-DB_CONNECTION=sqlite
-# Eliminar las líneas DB_HOST, DB_PORT, DB_DATABASE, DB_USERNAME, DB_PASSWORD
-
-# 4. Crear archivo de base de datos (Windows PowerShell)
-New-Item -Path "database\database.sqlite" -ItemType File
-
-# 5. Generar clave
-php artisan key:generate
-
-# 6. Ejecutar migraciones + seeders
-php artisan migrate --seed
-
-# 7. Levantar servidor
-php artisan serve
-```
-
-Abrir en el navegador: http://127.0.0.1:8000
-
-**Credenciales de prueba:**
-- Admin: `admin@greenpoints.com` / `password`
-- Usuario: `diego@mail.com` / `password`
-
 ---
-
 ## Estructura implementada
 
 ### Modelos (app/Models/)
