@@ -6,8 +6,6 @@ Materia: Programación Computacional IV
 
 Docente: Willian Alexis Montes Girón
 
-Grupo: B2
-
 Integrantes
 
 Diego Martín López Moreno (SMSS097824).  
@@ -21,6 +19,9 @@ Franklin Aldahir Portillo Flores (SMSS011624). 
 Omar Salvador García Vasquez (SMSS093524).  
 
 Flor Marina Torres Jandres (SMSS098424).  
+
+Grupo: B2
+
 
 Fecha: 17 mayo  2026.
 ---
